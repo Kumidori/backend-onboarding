@@ -1,4 +1,4 @@
-package com.myCompanyName.myProjectName.common.rest.error;
+package com.vi.search.common.rest.error;
 
 public enum RestErrorCode {
 

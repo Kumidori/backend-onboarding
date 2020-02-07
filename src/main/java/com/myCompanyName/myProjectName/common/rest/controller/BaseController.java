@@ -1,9 +1,9 @@
-package com.myCompanyName.myProjectName.common.rest.controller;
+package com.vi.search.common.rest.controller;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 
-import com.myCompanyName.myProjectName.generated.model.HalLink;
-import com.myCompanyName.myProjectName.generated.model.HalLink.MethodEnum;
+import com.vi.search.generated.model.HalLink;
+import com.vi.search.generated.model.HalLink.MethodEnum;
 import org.springframework.hateoas.Link;
 import org.springframework.http.HttpEntity;
 

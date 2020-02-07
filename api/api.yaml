@@ -2,7 +2,7 @@ openapi: '3.0.2'
 
 info:
   version: 1.0.0
-  title: myCompanyName-myProjectName
+  title: vi-search
 
 servers:
   - url: '{protocol}://localhost'

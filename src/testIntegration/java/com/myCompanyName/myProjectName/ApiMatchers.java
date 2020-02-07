@@ -1,4 +1,4 @@
-package com.myCompanyName.myProjectName;
+package com.vi.search;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 

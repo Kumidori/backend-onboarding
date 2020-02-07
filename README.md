@@ -3,10 +3,10 @@
 ## Create new project 
 1. To create a new project, create a new github repository and select this project as repository template.
 2. Import the project in your favourite IDE.
-3. Refactor the packages `com.myCompanyName.myProjectName` to your needs.
+3. Refactor the packages `com.vi.search` to your needs.
 4. After that do a fulltext search and replace in your new project for the following:
-    * "myCompanyName"  -> to refactored company package name, e. g. "vi"
-    * "myProjectName"  -> to refactored project package name, e. g. "search"
+    * "vi"  -> to refactored company package name, e. g. "vi"
+    * "search"  -> to refactored project package name, e. g. "search"
    
    This will result in a fully initialized project with adapted root packages (e. g. com.vi.search)
 5. In [package.json](package.json), adapt `repository.url` to your repository url.

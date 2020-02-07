@@ -1,4 +1,4 @@
-package com.myCompanyName.myProjectName.config;
+package com.vi.search.config;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

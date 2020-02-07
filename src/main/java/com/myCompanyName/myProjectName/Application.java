@@ -1,4 +1,4 @@
-package com.myCompanyName.myProjectName;
+package com.vi.search;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

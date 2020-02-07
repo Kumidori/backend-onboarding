@@ -4,12 +4,11 @@
     "It includes the version and further information used by semantic-release and its plugins.",
     "(See: https://github.com/semantic-release)"
   ],
-  "name": "myProjectName",
-  "version": "1.0.0",
-  "private": true,
+  "name": "search",
+   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:virtualidentityag/spring-boot-boilerplate.git"
+    "url": "https://github.com/Kumidori/backend-onboarding.git"
   },
   "devDependencies": {
     "@semantic-release/commit-analyzer": "7.0.0",

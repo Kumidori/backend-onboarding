@@ -1,6 +1,6 @@
-package com.myCompanyName.myProjectName.common.rest.error;
+package com.vi.search.common.rest.error;
 
-import com.myCompanyName.myProjectName.generated.model.Error;
+import com.vi.search.generated.model.Error;
 import java.util.UUID;
 
 public class RestErrorBuilder {
